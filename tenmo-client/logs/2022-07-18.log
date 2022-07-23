@@ -1,0 +1,4 @@
+2022-07-18T16:01:04.3744306 401 : [no body]
+2022-07-18T16:01:11.353556 401 : [no body]
+2022-07-18T16:34:31.8145684 401 : [no body]
+2022-07-18T16:38:25.4860168 500 : [{"timestamp":"2022-07-18T20:38:25.454+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_id, transfer_type_id, transfer_statu... (710 bytes)]
